@@ -15,5 +15,4 @@ Super market sales data is collected from Kaggle. Some Data preprocessing techni
 6. Slicer
 
 ## Dashboard Image
-
-![Logistic Regression algorithm](git@github.com:karthikgumma84-cmd/Super-market-sales-analysis.git)
+![Logistic Regression algorithm](https://github.com/Rafsun001/power-bi-project-for-resume/blob/main/project%20sample%20image.png?raw=true)
